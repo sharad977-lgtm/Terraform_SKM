@@ -1,1 +1,1 @@
-variable "rgdetails" {}
+variable "rgdetail" {}
